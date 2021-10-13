@@ -30,6 +30,8 @@ In o365 (Word) the screen is flickering during the first seconds. The [Cumulativ
 
 Office 365 is usable, but if I could choose, I would use the easier to use solution from Google.
 
+In o365: I am looking at an appointment which is linked to a video-call. I click the link, and get an annoying popup which asks me if I want to open the video call in the browser or in the native GUI. I prefer the google way: web browser only.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
