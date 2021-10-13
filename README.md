@@ -8,6 +8,10 @@ To make it short: I am not happy with Microsoft Office 365.
 
 I list here some notes.
 
+Background: My major goal for an online office suite is to be able to take some nicely formated notes. And from time to time I need a simple spreadsheet. Nothing fancy. I hardly print documents, and if I do so, it is only for me. The formatting does not need to be perfect. Ease of use is much more important for me.
+
+# Where Google is better
+
 In o365 I click on "OneDrive", then the URL is "sharepoint.com". If I click on "Excel" the URL is "office.com". Not a big problem. But that's not nice.
 
 In o365 (Word) I write "related_name ..." and Word thinks it is super smart and changes this to "Related_name". No, I don't want this smartness. I want this word to be lower-case.
@@ -20,10 +24,13 @@ In o365 (OneDrive) when I am looking at the list of recently used files, then I 
 
 In o365 (Word) opening a hyperlink is less intuitive. In Google Workspace I get a small popup window showing me two options: edit the link, open the link.
 
-In o365 (general) there are much more lines and characters on the screen compared to the corresponding screens in Google Workspace. I think Google had one big goal: Reduce cognitive load. I think Microsoft had a different goal. Maybe "Add many cool features".
+In o365 (general) there are much more lines and characters on the screen compared to the corresponding screens in Google Workspace. I think Google had one big goal: Reduce cognitive load. I think Microsoft had a different goal. Maybe "Make all features of our native desktop applications avaiable via the browser". But my background is different. I don't need all these features which the desktop version of MS-Word has.
 
 Office 365 is usable, but if I could choose, I would use the easier to use solution from Google.
 
+# Where Microsoft is better
+
+Microsoft is better at reading/writing their docx format. But I don't need this feature.
 
 # Related
 
