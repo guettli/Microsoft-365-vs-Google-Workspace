@@ -26,6 +26,8 @@ In o365 (Word) opening a hyperlink is less intuitive. In Google Workspace I get 
 
 In o365 (general) there are much more lines and characters on the screen compared to the corresponding screens in Google Workspace. I think Google had one big goal: Reduce cognitive load. I think Microsoft had a different goal. Maybe "Make all features of our native desktop applications avaiable via the browser". But my background is different. I don't need all these features which the desktop version of MS-Word has.
 
+In o365 (Word) the screen is flickering during the first seconds. The [Cumulative Layout Shift](https://web.dev/cls-web-tooling/) could be improved.
+
 Office 365 is usable, but if I could choose, I would use the easier to use solution from Google.
 
 # Where Microsoft is better
