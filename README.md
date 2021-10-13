@@ -24,3 +24,7 @@ In o365 (general) there are much more lines and characters on the screen compare
 
 Office 365 is usable, but if I could choose, I would use the easier to use solution from Google.
 
+
+# Related
+
+* [Güttli working-out-loud](https://github.com/guettli/wol)
