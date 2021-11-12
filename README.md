@@ -32,6 +32,8 @@ Office 365 is usable, but if I could choose, I would use the easier to use solut
 
 In o365: I am looking at an appointment which is linked to a video-call. I click the link, and get an annoying popup which asks me if I want to open the video call in the browser or in the native GUI. I prefer the google way: web browser only.
 
+In "Word for web" I found no way to disable the spell checking. My doc contained a lot of strings which are in no dictionary. I wanted to disable all these red lines. Even my favorite search engine did not help. With Google Docs, that's easy. I found the way to disable it immediately.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
