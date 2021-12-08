@@ -38,6 +38,8 @@ In o365: I created a word document, but then realized that I don't need this. I 
 
 In o365 VideoCall: I am in a Teams videocall. I want to invite someone. I copy+paste my URL. But this does not work. You need to go to the people-icon and then create a hyperlink for sharing. Grrrr. Copy+Pasting the URL of a Google Meet videocall works fine.
 
+In o376 I see file extensions like ".docx". This looks ugly, and provides no benefit, since the icon already signals that this is a word document.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
