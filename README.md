@@ -34,6 +34,10 @@ In o365: I am looking at an appointment which is linked to a video-call. I click
 
 In "Word for web" I found no way to disable the spell checking. My doc contained a lot of strings which are in no dictionary. I wanted to disable all these red lines. Even my favorite search engine did not help. With Google Docs, that's easy. I found the way to disable it immediately.
 
+In o365: I created a word document, but then realized that I don't need this. I want to delete the file. I don't find an option to delete the file.
+
+In o365 VideoCall: I am in a Teams videocall. I want to invite someone. I copy+paste my URL. But this does not work. You need to go to the people-icon and then create a hyperlink for sharing. Grrrr. Copy+Pasting the URL of a Google Meet videocall works fine.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
