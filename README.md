@@ -16,7 +16,7 @@ In o365 I click on "OneDrive", then the URL is "sharepoint.com". If I click on "
 
 In o365 (Word) I write "related_name ..." and Word thinks it is super smart and changes this to "Related_name". No, I don't want this smartness. I want this word to be lower-case.
 
-In o365 (Word) the opions to change the font is easy to see. This has the draw-back that is less likely that I will use the right way: Define a line as "heading" or "title". Changing the font should be avoided.
+In o365 (Word) the opions to change the font is easy to see. This has the draw-back that is less likely that I will use the right way: Define a line as "heading" or "title". I prefer to change the meaning of a text (like "Heading 1").
 
 In Google Drive recently used files are visible at the top. I like this.
 
