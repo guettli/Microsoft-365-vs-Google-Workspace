@@ -18,7 +18,7 @@ In o365 (Word) I write "related_name ..." and Word thinks it is super smart and 
 
 In o365 (Word) the opions to change the font is easy to see. This has the draw-back that is less likely that I will use the right way: Define a line as "heading" or "title". Changing the font should be avoided.
 
-In o365 (OneDrive) the recently used files is not the default view. In Google Drive the recently files are visible on the start page.
+In Google Drive recently used files are visible at the top. I like this.
 
 In o365 (OneDrive) when I am looking at the list of recently used files, then I am not able to add a new file.
 
