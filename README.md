@@ -38,7 +38,9 @@ In o365: I created a word document, but then realized that I don't need this. I 
 
 In o365 VideoCall: I am in a Teams videocall. I want to invite someone. I copy+paste my URL. But this does not work. You need to go to the people-icon and then create a hyperlink for sharing. Grrrr. Copy+Pasting the URL of a Google Meet videocall works fine.
 
-In o376 I see file extensions like ".docx". This looks ugly, and provides no benefit, since the icon already signals that this is a word document.
+In o365 I see file extensions like ".docx". This looks ugly, and provides no benefit, since the icon already signals that this is a word document.
+
+In Google Meet videocalls I can blur my background. This does not work for me (Ubuntu Linux) in o365.
 
 # Where Microsoft is better
 
