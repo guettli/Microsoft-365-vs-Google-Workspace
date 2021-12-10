@@ -10,6 +10,9 @@ I list here some notes.
 
 Background: My major goal for an online office suite is to be able to take some nicely formated notes. And from time to time I need a simple spreadsheet. Nothing fancy. I hardly print documents, and if I do so, it is only for me. The formatting does not need to be perfect. Ease of use is much more important for me.
 
+The following text is highly opinionated.
+
+
 # Where Google is better
 
 In o365 I click on "OneDrive", then the URL is "sharepoint.com". If I click on "Excel" the URL is "office.com". Not a big problem. But that's not nice.
@@ -24,13 +27,13 @@ In o365 (OneDrive) when I am looking at the list of recently used files, then I 
 
 In o365 (Word) opening a hyperlink is less intuitive. In Google Workspace I get a small popup window showing me two options: edit the link, open the link.
 
-In o365 (general) there are much more lines and characters on the screen compared to the corresponding screens in Google Workspace. I think Google had one big goal: Reduce cognitive load. I think Microsoft had a different goal. Maybe "Make all features of our native desktop applications avaiable via the browser". But my background is different. I don't need all these features which the desktop version of MS-Word has.
+In o365 (general) there are much more lines and characters on the screen compared to the corresponding screens in Google Workspace. I think Google had one big goal: Reduce cognitive load. I think Microsoft had a different goal. Maybe "Make all features of our native desktop applications avaiable via the browser". But my background is different. I don't need all these features which the desktop version of MS-Word has. I prefer simple to fancy GUIs.
 
 In o365 (Word) the screen is flickering during the first seconds. The [Cumulative Layout Shift](https://web.dev/cls-web-tooling/) could be improved.
 
 Office 365 is usable, but if I could choose, I would use the easier to use solution from Google.
 
-In o365: I am looking at an appointment which is linked to a video-call. I click the link, and get an annoying popup which asks me if I want to open the video call in the browser or in the native GUI. I prefer the google way: web browser only.
+In o365: I am looking at an appointment which is linked to a video-call. I click the link, and get an annoying popup which asks me if I want to open the video call in the browser or in the native GUI. I prefer the google way: web browser only. The browser is my new desktop. I don't like native GUIs.
 
 In "Word for web" I found no way to disable the spell checking. My doc contained a lot of strings which are in no dictionary. I wanted to disable all these red lines. Even my favorite search engine did not help. With Google Docs, that's easy. I found the way to disable it immediately.
 
