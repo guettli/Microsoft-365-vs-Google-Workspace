@@ -42,6 +42,13 @@ In o365 I see file extensions like ".docx". This looks ugly, and provides no ben
 
 In Google Meet videocalls I can blur my background. This does not work for me (Ubuntu Linux) in o365.
 
+In Google Calendar I see the HOUR:MINUTE an appointment starts. I like this.![image](https://user-images.githubusercontent.com/414336/145541079-501e13fd-1ced-4a9e-80cb-b7f27048d934.png)
+
+
+In o365 I don't see this. I use the view where I can see monday-sunday. The time is visible left to the column of monday. This means it is hard to see the exact time on entries which are at the end of the week:
+![image](https://user-images.githubusercontent.com/414336/145540977-61985b0c-447e-47a7-befd-b64766233c52.png)
+
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
