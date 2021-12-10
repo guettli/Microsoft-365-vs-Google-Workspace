@@ -42,6 +42,8 @@ In o365 I see file extensions like ".docx". This looks ugly, and provides no ben
 
 In Google Meet videocalls I can blur my background. This does not work for me (Ubuntu Linux) in o365.
 
+## Calendar
+
 In Google Calendar I see the HOUR:MINUTE an appointment starts. I like this.![image](https://user-images.githubusercontent.com/414336/145541079-501e13fd-1ced-4a9e-80cb-b7f27048d934.png)
 
 
