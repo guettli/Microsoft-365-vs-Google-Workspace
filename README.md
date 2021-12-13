@@ -60,6 +60,13 @@ means I need to disable the "send email" flag every time. I found no way to chan
 
 ![image](https://user-images.githubusercontent.com/414336/145776326-3bb53913-d404-43ef-a3f5-7d2896efa9f6.png)
 
+# Writing an Email: one TAB to get from "To" to "Subject"
+
+If I write an email in Gmail I enter the "to" field, then I press TAB and then I can write the subject.
+
+In o365 I need to press TAB four times to get to the subject.
+
+I prefer the Gmail solution: one TAB.
 
 # Where Microsoft is better
 
