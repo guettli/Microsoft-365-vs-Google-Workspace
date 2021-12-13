@@ -45,13 +45,20 @@ In o365 I see file extensions like ".docx". This looks ugly, and provides no ben
 
 In Google Meet videocalls I can blur my background. This does not work for me (Ubuntu Linux) in o365.
 
-## Calendar
+## Calendar: Time not visible
 
 In Google Calendar I see the HOUR:MINUTE an appointment starts. I like this.![image](https://user-images.githubusercontent.com/414336/145541079-501e13fd-1ced-4a9e-80cb-b7f27048d934.png)
 
 
 In o365 I don't see this. I use the view where I can see monday-sunday. The time is visible left to the column of monday. This means it is hard to see the exact time on entries which are at the end of the week:
 ![image](https://user-images.githubusercontent.com/414336/145540977-61985b0c-447e-47a7-befd-b64766233c52.png)
+
+## Calendar: Accept invite, default is "send mail"
+
+In o365: If I accept an invite via the calendar, then o365 has the default to send an email. I don't want to send an email. This
+means I need to disable the "send email" flag every time. I found no way to change the default to "don't send an email".
+
+![image](https://user-images.githubusercontent.com/414336/145776326-3bb53913-d404-43ef-a3f5-7d2896efa9f6.png)
 
 
 # Where Microsoft is better
