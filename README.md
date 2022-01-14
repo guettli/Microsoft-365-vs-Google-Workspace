@@ -68,6 +68,13 @@ In o365 I need to press TAB four times to get to the subject.
 
 I prefer the Gmail solution: one TAB.
 
+# Multiple URLs for same Online Office Doc. 
+
+Grrr the same document has several URLs in Microsoft. This is annoying, since the autocomplate in the browser's
+addressbar shows the same doc several times:
+
+![image](https://user-images.githubusercontent.com/414336/149491469-49fca8a4-397c-4970-9ece-cc6da3595e89.png)
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
