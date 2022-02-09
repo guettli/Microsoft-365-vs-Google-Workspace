@@ -85,6 +85,11 @@ The video calls in Google (in Chromium) need much less resources.
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
 
+# Why Microsoft?
+
+Don't ask me why so many companies (at least here in Germany) choose Microsoft-365 without looking at Google-Workplace.
+
+
 # Related
 
 * [Güttli working-out-loud](https://github.com/guettli/wol)
