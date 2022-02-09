@@ -75,6 +75,12 @@ addressbar shows the same doc several times:
 
 ![image](https://user-images.githubusercontent.com/414336/149491469-49fca8a4-397c-4970-9ece-cc6da3595e89.png)
 
+# Microsoft Teams Client for Linux: 300% CPU (VideoCall)
+
+The Microsoft Teams client on Linux eats a lot of CPU. The fan is constantly running which is grrr.
+
+The video calls in Google (in Chromium) need much less resources.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
