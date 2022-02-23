@@ -81,6 +81,19 @@ The Microsoft Teams client on Linux eats a lot of CPU. The fan is constantly run
 
 The video calls in Google (in Chromium) need much less resources.
 
+# Native Teams Client consumes CPU, altough I do nothing
+
+I rebooted my machine two days ago. Since then I have not used the native teams client once.
+
+Via the linux command `top` and then "T" I can see which process used the most CPU. There are several
+teams processes on the top of this list.
+
+Now I know why my laptop battery gets empty so soon.
+
+This CPU usage is much to much. This burns the planet, wastes energy and money.
+
+Google Workspace has no native client, which means that the solution from Google does not waste resources.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
