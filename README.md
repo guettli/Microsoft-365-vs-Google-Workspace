@@ -43,6 +43,8 @@ In o365 VideoCall: I am in a Teams videocall. I want to invite someone. I copy+p
 
 In o365 I see file extensions like ".docx". This looks ugly, and provides no benefit, since the icon already signals that this is a word document.
 
+## Blur background in Video-Call
+
 In Google Meet videocalls I can blur my background. This does not work for me (Ubuntu Linux) in o365.
 
 ## Calendar: Time not visible
