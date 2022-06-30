@@ -100,6 +100,8 @@ Google Workspace has no native client, which means that the solution from Google
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
 
+You can copy images from a online word document. In Google docs, you can't copy an image and paste it into an other application. At least not in a straight forward way. There is a work-around: You need to export the image to google-notes (via right-click). In google-notes you can copy the image.
+
 # Why Microsoft?
 
 Don't ask me why so many companies (at least here in Germany) choose Microsoft-365 without looking at Google-Workplace.
