@@ -55,6 +55,10 @@ In Google Calendar I see the HOUR:MINUTE an appointment starts. I like this.![im
 In o365 I don't see this. I use the view where I can see monday-sunday. The time is visible left to the column of monday. This means it is hard to see the exact time on entries which are at the end of the week:
 ![image](https://user-images.githubusercontent.com/414336/145540977-61985b0c-447e-47a7-befd-b64766233c52.png)
 
+## Calendar: Current day of the week easier to see
+
+If you look at one week in google calendar (via a desktop browser), the current day is highlighted via a big blue circle around the current day of the month. This is intuitive. MS-365 uses a blue line to highlight the current day. I prefer the solution of google, since it is more visual concise.
+
 ## Calendar: Accept invite, default is "send mail"
 
 In o365: If I accept an invite via the calendar, then o365 has the default to send an email. I don't want to send an email. This
