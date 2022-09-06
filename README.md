@@ -57,7 +57,16 @@ In o365 I don't see this. I use the view where I can see monday-sunday. The time
 
 ## Calendar: Current day of the week easier to see
 
-If you look at one week in google calendar (via a desktop browser), the current day is highlighted via a big blue circle around the current day of the month. This is intuitive. MS-365 uses a blue line to highlight the current day. I prefer the solution of google, since it is more visual concise.
+If you look at one week in Google calendar (via a desktop browser), the current day is highlighted via a big blue circle around the current day of the month. This is intuitive. MS-365 uses a blue line to highlight the current day. I prefer the solution of google, since it is more visual concise.
+
+## Calendar: Update event without sending a mail.
+
+I could not find a way to update an event without sending a mail.
+
+I just want to add an URL to the description to the event, so that I have it, during
+the meeting. The other participants don't need to have a look at the even before the event.
+
+This is possible with Google calendar, but not with o365.
 
 ## Calendar: Accept invite, default is "send mail"
 
