@@ -109,6 +109,13 @@ This CPU usage is much to much. This burns the planet, wastes energy and money.
 
 Google Workspace has no native client, which means that the solution from Google does not waste resources.
 
+# Google wants my Feedback
+
+It is straight forware to send a feedback message to Google if something does not work as expected. In Gmail it is a "question-mark in a circle icon"
+and in Google docs it is via the menu item "help".
+
+I have not seen something like this in MS o365. I would like to tell Microsoft that the resubmit-feature of emails is broken since some days. I resubmit an email to next week, and five minutes later the email is in my inbox again. This worked in the past, but since some days it is broken. I would like to tell MS this, but they don't provide an easy way to send feedback.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
