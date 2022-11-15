@@ -109,6 +109,13 @@ This CPU usage is much to much. This burns the planet, wastes energy and money.
 
 Google Workspace has no native client, which means that the solution from Google does not waste resources.
 
+# Snooze Mails
+
+There is a hany feature: [snooze mails until later](https://support.google.com/mail/answer/7622010?hl=en).
+
+ms365 has the same feature. Except, it does not work, at least not always. Often when I snooze an email in ms365,
+the mail which I want to reappear in two weeks, reappears in one minute.
+
 # Google wants my Feedback
 
 It is straight forware to send a feedback message to Google if something does not work as expected. In Gmail it is a "question-mark in a circle icon"
