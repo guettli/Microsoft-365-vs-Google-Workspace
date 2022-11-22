@@ -116,6 +116,12 @@ There is a hany feature: [snooze mails until later](https://support.google.com/m
 ms365 has the same feature. Except, it does not work, at least not always. Often when I snooze an email in ms365,
 the mail which I want to reappear in two weeks, reappears in one minute.
 
+# Mail to myself arrives fast with Google
+
+Sometimes I write a mail to myself, just to use the snooze feature immediately afterwords.
+
+A mail to myself arrives much faster with Gmail.
+
 # Google wants my Feedback
 
 It is straight forware to send a feedback message to Google if something does not work as expected. In Gmail it is a "question-mark in a circle icon"
