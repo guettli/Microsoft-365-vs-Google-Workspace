@@ -147,6 +147,8 @@ Of course I am not able to "Sign out and sign in", since I don't work for the fo
 
 I solved it by using an incognito tab in chrome. This worked out of the box. But that's just a work-around for the strange bugs of Microsoft.
 
+After deleting all cookies from microsoft it worked. Steps for chrome: https://support.google.com/chrome/answer/95647
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
