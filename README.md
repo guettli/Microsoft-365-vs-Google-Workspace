@@ -129,6 +129,24 @@ and in Google docs it is via the menu item "help".
 
 I have not seen something like this in MS o365. I would like to tell Microsoft that the resubmit-feature of emails is broken since some days. I resubmit an email to next week, and five minutes later the email is in my inbox again. This worked in the past, but since some days it is broken. I would like to tell MS this, but they don't provide an easy way to send feedback.
 
+# Anonymous Login does not work since I left the company
+
+I left the company which uses ms365 three months ago. I have only my personal (free) ms365 account.
+
+Now I receive an invite to a video call, and this company uses ms365. If I click on the link, the login page of Microsoft
+shows the old email address of my former employer. I tried several minutes to log-in with my personal account, but it does not work. My college how has never had a ms365 account can join the call easily.
+
+I get: 
+
+> AADSTS50020: User account 'me@examplecom' from identity provider 'live.com' does not exist in tenant 'old employer' and cannot access the application 
+> '5e3ce6c0-2b1f-4285-8d4b-75ee78787346'(Microsoft Teams Web Client) in that tenant. 
+> The account needs to be added as an external user in the tenant first. 
+> Sign out and sign in again with a different Azure Active Directory user account.
+
+Of course I am not able to "Sign out and sign in", since I don't work for the former company... Grrr.
+
+I solved it by using an incognito tab in chrome. This worked out of the box. But that's just a work-around for the strange bugs of Microsoft.
+
 # Where Microsoft is better
 
 Microsoft is better at reading/writing their docx format. But I don't need this feature.
