@@ -12,6 +12,9 @@ Background: My major goal for an online office suite is to be able to take some 
 
 The following text is highly opinionated.
 
+# Update 2024
+
+In my current context I use Zoho. It looks good, and it is cheaper than GSuite.
 
 # Where Google is better
 
