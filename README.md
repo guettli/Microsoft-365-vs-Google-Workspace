@@ -16,6 +16,8 @@ The following text is highly opinionated.
 
 In my current context I use Zoho. It looks good, and it is cheaper than GSuite.
 
+Great feature of Zoho: It supports dark mode!
+
 # Where Google is better
 
 In o365 I click on "OneDrive", then the URL is "sharepoint.com". If I click on "Excel" the URL is "office.com". Not a big problem. But that's not nice.
