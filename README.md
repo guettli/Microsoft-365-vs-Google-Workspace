@@ -127,6 +127,14 @@ Sometimes I write a mail to myself, just to use the snooze feature immediately a
 
 A mail to myself arrives much faster with Gmail.
 
+# Photos: Sort by size
+
+I don't know that feature in MS, but in Google Photos you can't sort images by size.
+See [Sort Content By Size in Google Photos](https://support.google.com/photos/thread/34436566/sort-content-by-size-in-google-photos?hl=en). 
+Several thousand people have the same question. Don't ask me why Google ignores that.
+I don't know the MS equivalent. Does MS support sort by size?
+
+
 # Google wants my Feedback
 
 It is straight forware to send a feedback message to Google if something does not work as expected. In Gmail it is a "question-mark in a circle icon"
